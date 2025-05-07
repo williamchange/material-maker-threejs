@@ -30,7 +30,7 @@ Currently the following are exported (more to be added):
 - Ambient Occulusion
 - Depth (Displacement/Height Map)
 
-## Links
+## Credit / Links
 
 Materials (CC0) by [Pavel Oliva](https://x.com/pavel_Oliva)
 - [Celestial Floor](https://materialmaker.org/material?id=751)
@@ -40,5 +40,3 @@ Materials (CC0) by [Pavel Oliva](https://x.com/pavel_Oliva)
 [Epping Forest 1K](https://polyhaven.com/a/epping_forest_01) via [Polyhaven](https://dev.polyhaven.com/) (CC0)
 
 [Material Maker](https://github.com/RodZill4/material-maker/) Project by [RodzLabs](https://github.com/RodZill4)
-
-[MeshStandardMaterial](https://threejs.org/docs/#api/en/materials/MeshStandardMaterial)
