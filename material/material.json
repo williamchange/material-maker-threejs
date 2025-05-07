@@ -1,0 +1,17 @@
+{
+    "type": "MeshStandardMaterial",
+    "roughness": 1.0,
+    "metalness": 0.0,
+    "displacementScale": 1.0,
+    "displacementBias": 0.5,
+    "normalScale": 1.0,
+    "textures": {
+        "map": "material_albedo.png",
+        "normalMap": "material_normal.png",
+        "aoMap": "material_occlusion.png",
+        "roughnessMap": "material_rough.png",
+        "metalnessMap": "material_metal.png",
+        "displacementMap": "material_displace.png",
+        "_": ""
+    }
+}

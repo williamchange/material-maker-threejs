@@ -13,7 +13,6 @@ let mesh;
 let exrCubeRenderTarget;
 let exrBackground;
 
-
 const hdri_path = './hdri/hdri.exr';
 
 const base_path = './material/';
