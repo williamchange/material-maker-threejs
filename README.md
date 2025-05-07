@@ -6,7 +6,7 @@ Basic three.js viewer for Material Maker (Standard PBR Material)
 [Live Demo](https://williamchange.github.io/projects/mmthreejs/)
 
 ## Screenshot
-
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/79953e0e-1a46-4eb9-ad80-fe788863b47e" />
 
 ## Export Target
 Custom export target is used in Material Maker (download [here](https://raw.githubusercontent.com/williamchange/material-maker-threejs/refs/heads/master/mm_target/meshstandardmat.mme)) which creates a ([MeshStandardMaterial](https://threejs.org/docs/#api/en/materials/MeshStandardMaterial)) .json file with associated textures, and can be imported using [MaterialLoader](https://threejs.org/docs/#api/en/loaders/MaterialLoader) (not directly, textures are still loaded seperately) in three.js
