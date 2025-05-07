@@ -117,11 +117,8 @@ function init() {
             loader.load(json_path, (mat) => {
                 mesh.material = mat;
 
-                console.log(mat)
-
                 // load textures from json
                 for (const tex in o.textures) {
-                    console.log(tex)
                     mesh.material[tex] = loadTexture(base_path + o.textures[tex]);
                 }
                 mesh.material.map.colorSpace = THREE.SRGBColorSpace;
