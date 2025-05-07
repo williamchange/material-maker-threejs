@@ -13,7 +13,7 @@ Custom export target is used in Material Maker (download [here](https://raw.gith
 
 ## Running the project
 
-The following should give you a local development server which runs on http://localhost:XXXX, which you can then run in your browser
+The following should give you a local development server running on http://localhost:XXXX, which you can then run in your browser
 
 ```text
 npm install
